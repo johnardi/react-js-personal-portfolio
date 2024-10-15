@@ -12,7 +12,7 @@
 
 ### Demo Screeshots
 
-![Pages Demo](./image_demo.png "Pages Demo")
+![Pages Demo](./image_demo.gif "Pages Demo")
 
 ### Prerequisites
 
